@@ -1,2 +1,2 @@
 # Bowling
-Bowling using Three.js (not realistic physics)
+Bowling en HTML en utilisant la librairie Three.js
