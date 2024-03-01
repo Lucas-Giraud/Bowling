@@ -1,0 +1,54 @@
+.expo{
+ vertical-align:super;
+}
+
+body {
+ background-color:#AAAAAA;
+/*margin: 0.5;
+    overflow: hidden;*/
+}
+
+.Tableau{
+    position: absolute;
+    margin-top: 10%;
+    text-align:center;
+    border : solid black 2px;
+    border-collapse:collapse;
+}
+
+
+th{
+    border: solid black 2px;
+}
+
+.E1{
+    border: solid red 2px;
+    color:blue;
+}
+.E2{
+    border: solid blue 2px;
+    color:red;
+}
+
+#divBouton{
+ float:right;
+}
+#controleRepere{
+ float:left;
+ margin-right:1cm;
+ border : solid 3px #FFFF00;
+}
+fieldset{
+ color : white;
+ background-color:black;
+ font-weight:900;
+}
+
+span{
+    color:white;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
